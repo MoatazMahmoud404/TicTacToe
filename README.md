@@ -3,11 +3,11 @@
 
 I'm a student at Ahram Canadian University, studying in the College of Computer Science & AI. I'm passionate about programming and game development, which led me to create this project as a part of my coursework. I enjoy combining creativity with technical skills to build engaging applications.
 
-# <img src="Doc/Icons/TicTacToe.ico" width="25" height="25"/> Tic Tac Toe Game 
+# <img src="Doc/Icons/TicTacToe.ico" style="width:0.80em; height:0.80em;"/> Tic Tac Toe Game 
 
 Welcome to the ultimate showdown of strategy and wit, where the classic game of Tic Tac Toe meets the gripping world of Squid Game!. This project is a Windows Forms application developed using C# .Net
 
-## Course Information
+## <img src="Doc/Icons/Course_Information_25px.png" style="width:0.80em; height:0.80em;"/> Course Information
 
 - **Course**: Event-Driven and Reactive Programming
 - **Course Code**: CSC207
@@ -18,7 +18,7 @@ Welcome to the ultimate showdown of strategy and wit, where the classic game of 
   - Eng. Monica Elkess
   - Eng. Youssef Hashem
 
-## Table of Contents
+## <img src="Doc/Icons/Table_of_Contents_25px.png" style="width:0.80em; height:0.80em;"/> Table of Contents
 
 - [Course Information](#course-information)
 - [Introduction](#introduction)
@@ -31,18 +31,18 @@ Welcome to the ultimate showdown of strategy and wit, where the classic game of 
 - [Contact](#contact)
 - [Update Version 2.0.0](#update-version-200)
 
-## Introduction
+## <img src="Doc/Icons/Introduction_25px.png" style="width:0.80em; height:0.80em;"/> Introduction
 
 This project is a simple implementation of the classic Tic-Tac-Toe game built using Windows Forms. It allows users to play against a computer opponent. The game features sound effects and a graphical user interface for an enjoyable gaming experience.
 
-## Features
+## <img src="Doc/Icons/Features_25px.png" style="width:0.80em; height:0.80em;"/> Features
 
 - Play against a computer opponent
 - Interactive graphical user interface
 - Sound effects for various game events
 - Option to restart the game
 
-## Installation
+## <img src="Doc/Icons/Installation_25px.png" style="width:0.80em; height:0.80em;"/> Installation
 
 To run this project locally, follow these steps:
 
@@ -56,7 +56,7 @@ Ensure that you have the following frameworks installed:
 - **Guna UI Framework**: Used for enhancing the UI elements of the application.
 - **Shade Library**: Used for creating shadow effects in the UI.
 
-## Usage
+## <img src="Doc/Icons/Usage_25px.png" style="width:0.80em; height:0.80em;"/> Usage
 
 Once the project is compiled and running, you can start playing the Tic-Tac-Toe game. Here's how to play:
 
@@ -66,15 +66,15 @@ Once the project is compiled and running, you can start playing the Tic-Tac-Toe 
 4. Continue playing until one player wins or the game ends in a draw.
 5. You can restart the game at any time by clicking the restart button.
 
-## Contributing
+## <img src="Doc/Icons/Contributing_25px.png" style="width:0.80em; height:0.80em;"/> Contributing
 
 Contributions to this project are welcome <3. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on GitHub.
 
-## Executable File
+## <img src="Doc/Icons/Executable_File_25px.png" style="width:0.80em; height:0.80em;"/> Executable File
 
 You can also find the executable file (`TicTacToe.exe`) in the repository's `bin` directory. You can directly run this executable file on a Windows system without needing to compile the project.
 
-## Screenshots and Videos
+## <img src="Doc/Icons/Screenshots_and_Videos_25px.png" style="width:0.80em; height:0.80em;"/> Screenshots and Videos
 
 Here are some screenshots and small video snippets showcasing different aspects of the application:
 
@@ -98,7 +98,7 @@ Here are some screenshots and small video snippets showcasing different aspects 
   ![About](Doc/Screenshot/Screen05.gif)  
   This PNG displays information about the application.
   
-## Contact
+## <img src="Doc/Icons/Contact_25px.png" style="width:0.80em; height:0.80em;"/> Contact
 
 For any inquiries or feedback, please contact with me at 42210055.Moataz@acu.edu.eg
 
@@ -108,7 +108,7 @@ This Game has been created with ❤️ to everybody
 Copy Right © 2024 0xMoataz
 
 ---
-## Update version 2.0.0
+## <img src="Doc/Icons/Update_25px.png" style="width:0.80em; height:0.80em;"/> Update version 2.0.0
 - The table with descriptions of the features that come in update version 2.0.0 soon
 
 | Feature                                          | Description                                                                                             |
