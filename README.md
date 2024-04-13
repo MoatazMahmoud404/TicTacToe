@@ -1,9 +1,9 @@
 
-![Squid Game Wallpaper](./Screenshot/SquidGame.jpg)
+![Squid Game Wallpaper](Doc/Screenshot/SquidGame.jpg)
 
 I'm a student at Ahram Canadian University, studying in the College of Computer Science & AI. I'm passionate about programming and game development, which led me to create this project as a part of my coursework. I enjoy combining creativity with technical skills to build engaging applications.
 
-# Tic Tac Toe Game
+# <img src="Doc/Icons/TicTacToe.ico" width="25" height="25"/> Tic Tac Toe Game 
 
 Welcome to the ultimate showdown of strategy and wit, where the classic game of Tic Tac Toe meets the gripping world of Squid Game!. This project is a Windows Forms application developed using C# .Net
 
@@ -80,22 +80,22 @@ Here are some screenshots and small video snippets showcasing different aspects 
 
 - **Intro Screen**:
   
-  ![Intro Screen](/Screenshot/sg1600x900.gif)  
+  ![Intro Screen](Doc/Screenshot/sg1600x900.gif)  
   This GIF shows the introduction screen of the application.
 
 - **Choose Your Shape**:
   
-  ![Choose Your Shape](./Screenshot/Screen04.gif)  
+  ![Choose Your Shape](Doc/Screenshot/Screen04.gif)  
   This PNG demonstrates the process of choosing your preferred shape (X or O) in the application.
 
 - **Game Play**:
   
-  ![Game Play](./Screenshot/Screen01.gif)  
+  ![Game Play](Doc/Screenshot/Screen01.gif)  
   This GIF illustrates the gameplay of the Tic-Tac-Toe game.
   
 - **About**:
 
-  ![About](./Screenshot/Screen05.gif)  
+  ![About](Doc/Screenshot/Screen05.gif)  
   This PNG displays information about the application.
   
 ## Contact
