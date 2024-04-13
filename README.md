@@ -3,7 +3,7 @@
 
 I'm a student at Ahram Canadian University, studying in the College of Computer Science & AI. I'm passionate about programming and game development, which led me to create this project as a part of my coursework. I enjoy combining creativity with technical skills to build engaging applications.
 
-# <img src="Doc/Icons/TicTacToe.ico" style="width:0.80em; height:0.80em;"/> Tic Tac Toe Game 
+# <img src="Doc/Icons/TicTacToe.ico" width="25" height="25"/> Tic Tac Toe Game 
 
 Welcome to the ultimate showdown of strategy and wit, where the classic game of Tic Tac Toe meets the gripping world of Squid Game!. This project is a Windows Forms application developed using C# .Net
 
