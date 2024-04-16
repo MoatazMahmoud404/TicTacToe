@@ -15,26 +15,26 @@ namespace ProjectFullPackage
 {
     public partial class Game : Form
     {
-        void SoundMultiply()
-        {
-            using (var soundStream = Properties.Resources.Multiply1)
-            {
-                using (var soundPlayer = new SoundPlayer(soundStream))
-                {
-                    soundPlayer.Play();
-                }
-            }
-        }
-        void SoundCircle()
-        {
-            using (var soundStream = Properties.Resources.Circle1)
-            {
-                using (var soundPlayer = new SoundPlayer(soundStream))
-                {
-                    soundPlayer.Play();
-                }
-            }
-        }
+        // void SoundMultiply() // i delete this sound in last update add if you want to use it again name -> "Multiply.wav"
+        // {
+        //     using (var soundStream = Properties.Resources.Multiply1)
+        //     {
+        //         using (var soundPlayer = new SoundPlayer(soundStream))
+        //         {
+        //             soundPlayer.Play();
+        //         }
+        //     }
+        // }
+        // void SoundCircle()// i delete this sound in last update add if you want to use it again name -> "Circle.wav"
+        // {
+        //     using (var soundStream = Properties.Resources.Circle1)
+        //     {
+        //         using (var soundPlayer = new SoundPlayer(soundStream))
+        //         {
+        //             soundPlayer.Play();
+        //         }
+        //     }
+        // }
 
         void Sounddoll1()
         {

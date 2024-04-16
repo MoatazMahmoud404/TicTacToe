@@ -73,7 +73,6 @@ namespace ProjectFullPackage
             pictureBox2.Visible = false;
             timer1.Stop();
         }
-
         private void parrotSuperButton1_Click(object sender, EventArgs e)
         {
             label1.Visible = false;
