@@ -3,6 +3,8 @@
 
 I'm a student at Ahram Canadian University, studying in the College of Computer Science & AI. I'm passionate about programming and game development, which led me to create this project as a part of my coursework. I enjoy combining creativity with technical skills to build engaging applications.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoatazMahmoud404%2FTicTacToe&count_bg=%230476B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # <img src="Doc/Icons/TicTacToe.ico" width="25" height="25"/> Tic Tac Toe Game 
 
 Welcome to the ultimate showdown of strategy and wit, where the classic game of Tic Tac Toe meets the gripping world of Squid Game!. This project is a Windows Forms application developed using C# .Net
